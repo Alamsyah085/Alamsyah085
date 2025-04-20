@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Himpunan Mahasiswa Perikanan Laut Tropis</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Himpunan Mahasiswa Perikanan Laut Tropis</h1>
+        <nav>
+            <ul>
+                <li><a href="#tentang">Tentang Kami</a></li>
+                <li><a href="#kegiatan">Kegiatan</a></li>
+                <li><a href="#berita">Berita</a></li>
+                <li><a href="#kontak">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="beranda">
+        <h2>Selamat Datang!</h2>
+        <p>Selamat datang di website resmi Himpunan Mahasiswa Perikanan Laut Tropis Universitas Padjadjaran PSDKU Pangandaran.</p>
+    </section>
+
+    <section id="tentang">
+        <h2>Tentang Kami</h2>
+        <p>Himpunan Mahasiswa Perikanan Laut Tropis adalah organisasi yang bertujuan untuk mengembangkan minat dan bakat mahasiswa di bidang perikanan.</p>
+    </section>
+
+    <section id="kegiatan">
+        <h2>Kegiatan</h2>
+        <ul>
+            <li>Seminar Perikanan</li>
+            <li>Workshop Pengolahan Hasil Laut</li>
+            <li>Ekspedisi Laut</li>
+        </ul>
+    </section>
+
+    <section id="berita">
+        <h2>Berita Terbaru</h2>
+        <p>Ikuti berita terbaru seputar kegiatan dan informasi penting lainnya.</p>
+    </section>
+
+    <section id="kontak">
+        <h2>Kontak Kami</h2>
+        <p>Email: himpunan.perikanan@unpad.ac.id</p>
+        <p>Telepon: 0812-3456-7890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Himpunan Mahasiswa Perikanan Laut Tropis Universitas Padjadjaran PSDKU Pangandaran</p>
+    </footer>
+</body>
+</html>
